@@ -1,0 +1,16 @@
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\IUserDao.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\exceptions\DbResourceManagerException.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\impl\DaoFactory.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\IDaoFactory.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\impl\SqlCategoryDao.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\IBanManagementDao.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\IModelDao.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\impl\SqlBanManagementDao.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\connectionpool\DbResourceManager.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\exceptions\ConnectionPoolException.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\impl\SqlModelDao.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\ICategoryDao.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\impl\DataReaderEx.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\impl\SqlUserDao.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\connectionpool\DbParameter.java
+E:\Java\workspaceMaven\yoshop\dao\src\main\java\by\itacademy\training\yoshop\dao\connectionpool\ConnectionPool.java
